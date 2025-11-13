@@ -1,0 +1,46 @@
+
+# 2025-11-13 14:12:45.035619
++Code the following app
++```
++Klondike is played with a standard 52-card deck, without Jokers.
++
++After shuffling, a tableau of seven fanned piles of cards is laid from left to right. From left to right, each pile contains one more card than the last. The first and left-most pile contains a single upturned card, the second pile contains two cards, and so forth. The topmost card of each pile is turned face up.
++
++The remaining cards from the stock are placed facedown at the upper left of the layout.
++
++The four foundations (light rectangles in the upper right of the figure) are built up by suit from Ace (low in this game) to King, and the tableau piles can be built down by alternate colors. Every face-up card in a partial pile, or a complete pile, can be moved, as a unit, to another tableau pile on the basis of its highest card. Any empty piles can be filled with a King, or a pile of cards with a King. The aim of the game is to build up four stacks of cards starting with Ace and ending with King, all of the same suit, on one of the four foundations, at which time the player would have won.
++
++There are different ways of dealing the remainder of the deck from the stock to the waste, including the following:
++
++- Turning three cards at once to the waste, with no limit on passes through the deck.
++- Turning three cards at once to the waste, with three passes through the deck.
++- Turning one card at a time to the waste, with three passes through the deck.
++- Turning one card at a time to the waste with only a single pass through the deck and playing it if possible.
++- Turning one card at a time to the waste, with no limit on passes through the deck.
++If the player can no longer make any meaningful moves, the game is considered lost.
++```
++
++Update the app metadata and generate an app icon.
+
+# 2025-11-13 14:12:45.035990
++Code the following app
++```
++Klondike is played with a standard 52-card deck, without Jokers.
++
++After shuffling, a tableau of seven fanned piles of cards is laid from left to right. From left to right, each pile contains one more card than the last. The first and left-most pile contains a single upturned card, the second pile contains two cards, and so forth. The topmost card of each pile is turned face up.
++
++The remaining cards from the stock are placed facedown at the upper left of the layout.
++
++The four foundations (light rectangles in the upper right of the figure) are built up by suit from Ace (low in this game) to King, and the tableau piles can be built down by alternate colors. Every face-up card in a partial pile, or a complete pile, can be moved, as a unit, to another tableau pile on the basis of its highest card. Any empty piles can be filled with a King, or a pile of cards with a King. The aim of the game is to build up four stacks of cards starting with Ace and ending with King, all of the same suit, on one of the four foundations, at which time the player would have won.
++
++There are different ways of dealing the remainder of the deck from the stock to the waste, including the following:
++
++- Turning three cards at once to the waste, with no limit on passes through the deck.
++- Turning three cards at once to the waste, with three passes through the deck.
++- Turning one card at a time to the waste, with three passes through the deck.
++- Turning one card at a time to the waste with only a single pass through the deck and playing it if possible.
++- Turning one card at a time to the waste, with no limit on passes through the deck.
++If the player can no longer make any meaningful moves, the game is considered lost.
++```
++
++Update the app metadata and generate an app icon.
